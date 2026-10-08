@@ -1,0 +1,4 @@
+counterparty,netting_set,trade_type,feed_code,mapped_type,note
+ACME Corp,NS-101,cleared,CLR,bilateral,MARCH FIX: was mapped bilateral — corrected April
+Globex,NS-204,bilateral,BIL,bilateral,ok
+Initech,NS-318,cleared,CLR,cleared,ok post April mapping

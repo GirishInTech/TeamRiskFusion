@@ -1,0 +1,4 @@
+netting_set,trade_type,feed_code,mapped_type,note
+NS-101,cleared,CLR,bilateral,MARCH FIX: was mapped bilateral — corrected April (illustrative)
+NS-204,bilateral,BIL,bilateral,ok
+NS-318,cleared,CLR,cleared,ok post April mapping
