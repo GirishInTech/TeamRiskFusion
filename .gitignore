@@ -1,0 +1,9 @@
+# Demo-generated / local-only
+backend/knowledge.db
+backend/uploads/
+backend/__pycache__/
+frontend/node_modules/
+frontend/dist/
+.venv/
+venv/
+*.pyc
