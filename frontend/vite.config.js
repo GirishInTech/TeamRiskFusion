@@ -10,6 +10,8 @@ export default defineConfig({
       '/projects': 'http://localhost:8000',
       '/health': 'http://localhost:8000',
       '/ingest': 'http://localhost:8000',
+      '/jira': 'http://localhost:8000',
+      '/chat': 'http://localhost:8000',
       '/documents': 'http://localhost:8000'
     }
   }

@@ -31,7 +31,7 @@ class ProjectComponent(Base):
     __tablename__ = "project_components"
     id = Column(Integer, primary_key=True)
     project_id = Column(Integer, ForeignKey("projects.id"), nullable=False)
-    kind = Column(String, default="other")  # api | database | repo | dashboard | report | doc | other
+    kind = Column(String, default="other")  # api | database | repo | dashboard | widget | computation | report | doc | other
     label = Column(String, default="")
     ref = Column(String, default="")
     notes = Column(Text, default="")

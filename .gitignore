@@ -1,7 +1,8 @@
-# Demo-generated / local-only
+# Demo-generated / local-only / secrets (never commit keys)
 backend/knowledge.db
 backend/uploads/
 backend/__pycache__/
+backend/.env
 frontend/node_modules/
 frontend/dist/
 .venv/
